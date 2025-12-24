@@ -1,0 +1,16 @@
+/* Libs */
+@import url('./libs/normalize.css');
+
+/* Base */
+@import url('./base/fonts.css');
+@import url('./base/reset.css');
+@import url('./base/vars.css');
+@import url('./base/global.css');
+
+/* Blocks */
+@import url('./blocks/header.css');
+@import url('./blocks/hero.css');
+@import url('./blocks/new.css');
+@import url('./blocks/colors.css');
+@import url('./blocks/contacts.css');
+@import url('./blocks/footer.css');

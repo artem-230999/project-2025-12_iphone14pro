@@ -1,0 +1,10 @@
+:root {
+  --font-family: "Inter", sans-serif;
+
+	--color-white: #fff;
+	--color-dark: #0a0a0a; 
+  --color-accent: #490e84;
+  --color-accent-hover: #310959;
+	--color-bg-accent: #574b63;
+  --color-gray: #717171;
+}

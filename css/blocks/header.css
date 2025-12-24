@@ -1,0 +1,7 @@
+.header {
+  min-height: 113px;
+  display: flex;
+  align-items: center;
+  padding-block: 33px;
+  background-color: var(--color-dark);
+}
